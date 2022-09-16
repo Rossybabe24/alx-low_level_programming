@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -E $CFILE o c 
+gcc -E $CFILE o c
 chmod u+x 0-preprocessor
